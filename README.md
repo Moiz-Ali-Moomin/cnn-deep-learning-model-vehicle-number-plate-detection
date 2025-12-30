@@ -105,6 +105,8 @@ bash
 Copy code
 git clone https://github.com/Moiz-Ali-Moomin/cnn-deep-learning-model-vehicle-number-plate-detection.git
 cd cnn-deep-learning-model-vehicle-number-plate-detection
+
+
 2️⃣ Setup environment (Model)
 bash
 Copy code
@@ -117,6 +119,8 @@ Copy code
 jupyter notebook
 # OR
 python prediction.py
+
+
 3️⃣ Run Flask Web Application
 bash
 Copy code
@@ -131,6 +135,7 @@ http://127.0.0.1:5000/
 Upload an image to detect and recognize vehicle number plates.
 
 📊 Output & Results
+
 Detects vehicle number plates from images
 
 Recognizes characters using trained CNN models
@@ -140,6 +145,7 @@ Supports image and video-based testing
 Web interface for interactive inference
 
 🧪 What I Learned
+
 Designing CNN models for object detection
 
 Image preprocessing techniques using OpenCV
@@ -151,6 +157,7 @@ Building Flask APIs for ML inference
 Structuring ML projects for production use
 
 🔮 Future Enhancements
+
 Integrate OCR for full ANPR pipeline
 
 Support real-time video streams
@@ -162,12 +169,10 @@ Deploy the application on cloud platforms
 Add Docker support for containerized deployment
 
 👨‍💻 Author
+
 Moiz Ali Moomin
 Cloud / DevOps | Machine Learning
 GitHub: https://github.com/Moiz-Ali-Moomin
-
-markdown
-
 
 
 
